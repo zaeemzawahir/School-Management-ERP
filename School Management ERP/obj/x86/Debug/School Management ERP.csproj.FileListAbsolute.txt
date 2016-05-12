@@ -1,0 +1,44 @@
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\bin\Debug\School Management ERP.exe.config
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\bin\Debug\School Management ERP.exe
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\bin\Debug\School Management ERP.pdb
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\bin\Debug\MetroFramework.dll
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.AddBook.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.frmAttendance.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.bookIssueReturn.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.EmployeeAdd.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.EmployeeDetails.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.StudentDetail.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.frmMain.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.frmViewBook.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.frmLogin.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.Properties.Resources.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.Student_Result.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.frmStudent.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.UserControls.UserControlTest1.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School Management ERP.csproj.GenerateResource.Cache
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School Management ERP.exe
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School Management ERP.pdb
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.LibraryEmpMember.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.frmStudentMemReg.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School Management ERP.csproj.ResolveComReference.cache
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.AddLocation.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.UserControls.LibraryBookCount.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.Resources.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.Add_Items.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.frmMaintainItems.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.frmUser.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.frmLibrarian.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.frmSubject.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.examType.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.frmOlResults.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\bin\Debug\MetroFramework.Design.dll
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School Management ERP.csprojResolveAssemblyReference.cache
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.frmOlResultReport.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.frmStudenOlREg.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.frmPassword.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.Book_List.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.CategorizedList.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.fullList.resources
+C:\Users\Zaeem Zawahir\Documents\Visual Studio 2010\Projects\School Management ERP\School Management ERP\obj\x86\Debug\School_Management_ERP.General_Inventory.resources

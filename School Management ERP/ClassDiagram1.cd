@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="School_Management_ERP.AddBook" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACIEABAAAIDAACgCAAQAABBABBAAAAJAAAA=</HashCode>
+      <FileName>AddBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_Management_ERP.frmAttendance" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAUAAAAAACAAABAAAACAAAACAAUCAABAABAAIAAAAAA=</HashCode>
+      <FileName>Attendance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_Management_ERP.bookIssueReturn" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FACACAIAkiAkATCAAACAISACBAQsMACARHAhAAbgQFA=</HashCode>
+      <FileName>bookIssueReturn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_Management_ERP.DBConnection" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>DBConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_Management_ERP.EmployeeAdd" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQAAAAAAEDCAABAwAADEAGAiAgSgAJggADwAAALACAQ=</HashCode>
+      <FileName>EmployeeAdd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_Management_ERP.Form1" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_Management_ERP.frmMain" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAgACCAAABAQAACAAAACAAAYaQCQAGACAACAAAA=</HashCode>
+      <FileName>FormTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_Management_ERP.frmViewBook" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAgBCAAIBAQAACAAEgCAAwEAACAQDAQQABCEAQ=</HashCode>
+      <FileName>frmViewBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_Management_ERP.GlobalAccess" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GlobalAccess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_Management_ERP.PasswordHash" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAgEAhCIAAAQAAAAAIAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>hashing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_Management_ERP.LibraryMemberReg" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MQAAAAABASAAIBAACACCAAECAQxIIAgiADARCABmEEQ=</HashCode>
+      <FileName>LibraryMemberReg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_Management_ERP.frmLogin" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAQAKAAABEEAACAAAECIAUICAAAAFAAAABAAAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_Management_ERP.Program" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_Management_ERP.Student_Result" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAByAAADAQAACAAAACAAgAAAAAEAAAAAIAADg=</HashCode>
+      <FileName>Student Result.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_Management_ERP.frmStudent" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>dQAABCAAASAAIBQgCACAAAACAAQIABggADAABAKEAKY=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_Management_ERP.StudentDetails" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>dwAABCAgBSAgIBQwCACAAEACAgwIABgkADEEEAaGEKQ=</HashCode>
+      <FileName>StudentDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_Management_ERP.UserAccont" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAESAAABAAAACAAABCIAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>UserAccont.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_Management_ERP.Properties.Resources" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_Management_ERP.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_Management_ERP.UserControls.UserControlTest1" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAIAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>UserControls\UserControlTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
